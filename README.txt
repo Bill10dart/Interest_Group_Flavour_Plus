@@ -1,0 +1,3 @@
+﻿This is a README file. I forgot how I'm supposed to write one.
+The original purpose of this mod, as of 2025.03.21, is to add flavour to nations in Victoria 3 by modifying the ideologies and traits of interest groups.
+I hope someone come and rewrite this better.
